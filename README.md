@@ -1,5 +1,5 @@
-本项目单纯为个人日后学习观摩用以及分享给想看的人,如果涉及侵犯到哪位作者的权益,请及时联系删除,可在Issues里提出  
-精华帖列表:也可以点击Wiki直接观看  
+本项目单纯为个人日后学习观摩用以及分享给想看的人,如果涉及__侵犯到哪位作者的权益__,请及时联系删除,可在Issues里提出,或者联系本人邮箱wutong92120@gmail.com  
+精华帖列表  
 [19号家的北棒和北棒家的十九号。 关于北朝鲜的若干观点吐槽 男人就要长！](https://github.com/wutong92120/KFQ-POST/wiki/19%E5%8F%B7%E5%AE%B6%E7%9A%84%E5%8C%97%E6%A3%92%E5%92%8C%E5%8C%97%E6%A3%92%E5%AE%B6%E7%9A%84%E5%8D%81%E4%B9%9D%E5%8F%B7%E3%80%82----%E5%85%B3%E4%BA%8E%E5%8C%97%E6%9C%9D%E9%B2%9C%E7%9A%84%E8%8B%A5%E5%B9%B2%E8%A7%82%E7%82%B9%E5%90%90%E6%A7%BD---%E7%94%B7%E4%BA%BA%E5%B0%B1%E8%A6%81%E9%95%BF%EF%BC%81)  
 [2016上半年，楼市，汇率，加息以及其他](https://github.com/wutong92120/KFQ-POST/wiki/2016%E4%B8%8A%E5%8D%8A%E5%B9%B4%EF%BC%8C%E6%A5%BC%E5%B8%82%EF%BC%8C%E6%B1%87%E7%8E%87%EF%BC%8C%E5%8A%A0%E6%81%AF%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96)  
 [【A社原创】数据对比：中国vs印度](https://github.com/wutong92120/KFQ-POST/wiki/%E3%80%90A%E7%A4%BE%E5%8E%9F%E5%88%9B%E3%80%91%E6%95%B0%E6%8D%AE%E5%AF%B9%E6%AF%94%EF%BC%9A%E4%B8%AD%E5%9B%BDvs%E5%8D%B0%E5%BA%A6)  
